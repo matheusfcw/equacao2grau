@@ -1,6 +1,6 @@
 # escrita na forma: ax^2+bx+c
 # formula de deltaΔ: b^2-4ac
-# formula de resolução: (-b+-√Δ)/2a
+# formula de resolução: (-b+-√Δ)2a
 import math
 import time
 from xml.sax import default_parser_list
